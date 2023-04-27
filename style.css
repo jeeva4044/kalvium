@@ -110,7 +110,7 @@ body {
     display: none;
 }
 
-.checkBtn {
+.check {
     display: none;
 }
 
@@ -121,7 +121,7 @@ body {
 .nav-col a:hover {
     border-radius: .4rem;
     color: #1f1f38;
-    background-color: #fff;
+    background-color: #bc083b;
 }
 
 
@@ -336,6 +336,7 @@ ul li a:hover {
 
 .search {
     border: #151527;
+    display: inline-flex;
 
    
 }
